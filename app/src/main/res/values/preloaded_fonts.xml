@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/acme</item>
+        <item>@font/alice</item>
+        <item>@font/antic_didone</item>
+        <item>@font/anton</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/bevan</item>
+        <item>@font/bigshot_one</item>
+    </array>
+</resources>
